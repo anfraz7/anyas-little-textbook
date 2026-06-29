@@ -111,13 +111,11 @@ These are the times that I stuck to my timeline that I think paid off the most.
   <div class="timeline-item">
     <div class="timeline-date">July - August</div>
     <ul class="timeline-body">
-      <li>Make a good working list of what schools you want to apply to.</li>
-      <li>Schedule a meeting with your mentor to talk about schools you may be interested in. If your mentor has a background in the field you are interested in then they can be super helpful in suggesting schools/groups to look into. If not, that’s totally okay—that’s the boat I was in! Your mentor can still help you talk through potential schools.</li>
+      <li>Make a good working list of what schools and fellowships you want to apply to.</li>
+      <li>Schedule a meeting with your mentor to talk through your school and fellowship list. If your mentor has a background in the field you are interested in then they can be super helpful in suggesting schools/groups to look into. If not, that’s totally okay—that’s the boat I was in! Your mentor can still help you talk through potential schools.</li>
       <li>Reach out to three people whom you want to write letters for you to confirm they are willing.</li>
       <li>(Optional) The summer can be a great time to start writing your NSF GRFP proposal, if you are applying. Identifying a research question can take a lot of time and literature review!</li>
       <li>(Optional) Start emailing professors you may be interested in working with for your PhD. This can establish some critical connections with professors that may have otherwise seen your application as just one in a sea of many highly qualified applicants.</li>
-      <li>(Optional) Make a fellowship plan. Will you apply for the NSF GRFP? Other federal fellowships from the DOE, etc? These deadlines are all throughout the fall and winter so make a plan early.</li>
-      <li>(Optional) Writing and editing time for early international applications.</li>
     </ul>
   </div>
 
