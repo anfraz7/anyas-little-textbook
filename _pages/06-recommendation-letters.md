@@ -48,21 +48,21 @@ _As soon as I could_
 - Statement of purpose
 - Research proposals for fellowships I applied for
 
-Some professors may have specific materials they ask for when writing a recommendation letter and some may not. _Even if they don't ask_, give them your CV and statement of purpose anyways. They are helping you out by writing this letter, and providing your application materials makes their life easier and shows them that you are invested in helping them help you.
+Some letters may ask for these materials and some may not. _Even if they don't ask_, send them your CV and statement of purpose. They are helping you out by writing this letter, and providing your application materials makes their life easier and shows them that you are invested in helping them help you.
 
 ### what should I do if I am worried my letter writer might not submit on time?
 
 Firstly, remember how you turn in all of your assignments at 11:59 PM the day they are due and feel that is normal. Some professors are just going to turn in your first letter the day it is due, and it’s not really fair to ask them to turn it in sooner even if it plucks your nerves like a banjo.
 
-That said, it’s important to stay in contact with your letter writers about due dates and send polite reminders as the deadline draws close. I typically send ~4 emails:
+That said, it’s important to stay in contact with your letter writers about due dates and send polite reminders as the deadline draws close. I typically send ~4-5 emails:
 
 - The initial email telling the letter writer about the deadline
 - A reminder ~1 week before the application is due
-- A reminder the day before and morning of the deadline
+- A reminder a few days before, the day before, then the morning of the deadline
 
 I have found that professors have appreciated this in the past.
 
 In my experience, the only time to deviate from this plan is if it is very close to the deadline and you haven’t had any communication from your letter writer in the past week or so. There was one grad school recommendation letter where I had reason to believe that my letter writer had not seen my reminder emails and had likely forgotten about a deadline. I texted him a polite reminder on his personal phone along with an apology if I had misread the situation, and he responded and submitted my letter. You have to give your letter writers grace and personal space, but this letter is also very important for your career and you don’t want to be left wishing you had done more.
 
-In the very rare case that your letter writer misses a deadline, don’t give up! Ask them to still submit their letter if they can, and send an email or two to the school they missed. You can even see if they are willing to email the school themself. I have heard from professors that some schools are pretty flexible on recommendation letter deadlines. I was accepted to an REU where my letter writer submitted their letter a week late, because I was able to coordinate with the program director for my recommender to send the letter directly by email. You never know!
+In the very rare case that your letter writer misses a deadline, don’t give up! Ask them to still submit their letter if they can, and send an email or two to the school they missed. You can even see if your letter writer is willing to email the school themself (assuming it was not your fault that they missed the deadline). I have heard from professors that some schools are pretty flexible on recommendation letter deadlines. I was accepted to an REU where my letter writer submitted their letter a week late, because I was able to coordinate with the program director for my recommender to send the letter directly by email. You never know!
 
