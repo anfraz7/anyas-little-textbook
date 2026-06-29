@@ -24,7 +24,7 @@ These are some times I deviated from the timeline which caused a few headaches. 
 
 These are the times that I stuck to my timeline that I think paid off the most.
 
-1. **Scheduling lots of editing sessions with professors, grad students, and the writing center way before PhD applications were due.** Writing a grad school statement of purpose came very unintuitively for me. As I mentioned above, I underestimated the task of writing my SOP for my GRFP application. Luckily, I identified a few trusted advisors mid fall (particularly a successful grad student) who showed me immense patience when reading my statement of purpose. Eventually, my SOP morphed into an essay that I was excited to submit to all my PhD applications.
+1. **Scheduling lots of editing sessions with professors, grad students, and the writing center way before PhD applications were due.** Writing a grad school statement of purpose came very unintuitively for me. As I mentioned above, I underestimated the task of writing my SOP for my GRFP application. Luckily, I identified a few trusted advisors mid fall (particularly a successful grad student) who showed me immense patience when reading my statement of purpose leading up to PhD applications. Eventually, my SOP morphed into an essay that I was excited to submit to all my PhD applications.
 
 2. **Securing my recommendation letter writers in the summer.** You don’t want to be stuck worrying about your letter writers once the semester starts! I also chose to lean on two of my three letter writers as advisors who supported me through the application process, so I knew that they were involved and committed to writing me a good letter.
 
