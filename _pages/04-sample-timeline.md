@@ -124,7 +124,7 @@ These are the times that I stuck to my timeline that I think paid off the most.
     <div class="timeline-date">September</div>
     <ul class="timeline-body">
       <li>Remind your letter writers of any September deadlines.</li>
-      <li>If you are applying for the NSF GRFP, you should definitely be working on it by now. Identify a research advisor who will tear apart your application, and have good drafts of your proposal and statement of purpose by the end of the month. If you aren't applying to any fellowships due early fall, take September to write your statement of purpose and personal statement for your PhD applications. You don’t want to be starting these during midterm season.</li>
+      <li>If you are applying for the NSF GRFP, you should definitely be working on it by now. Identify a research advisor who will tear apart your application, and have good drafts of your proposal and statement of purpose to send to your letter writers by the end of the month. If you aren't applying to any fellowships due early fall, take September to write your statement of purpose and personal statement for your PhD applications. You don’t want to be starting these during midterm season.</li>
       <li>(Optional) Finish up international or fellowship applications that are due September/October.</li>
       <li>(Optional) Make a fee waiver plan. See what virtual events schools you are interested in are hosting, and apply for the Big Ten FreeApp waiver if you think you’ll apply to any of those schools.</li>
     </ul>
