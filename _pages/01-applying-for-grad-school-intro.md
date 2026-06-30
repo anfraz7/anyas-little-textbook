@@ -85,7 +85,7 @@ Although I had great success with REU applications in the past, I realized last 
 
 # this guide
 
-Each of the tabs on the left contains my take on aspects of grad school applications such as recommendation letters, interviews, essays, etc. I chose not to share my application essays on this document because I will be using them to apply for several fellowships next year. But also, I think that part of the process of coming up with a good essay for grad school involves starting from scratch and figuring out what makes you tick, instead of copying someone else’s successful template. That said, I’m happy to read over essays! Send them my way at the email below. <3
+Each of the tabs on the left contains my take on aspects of grad school applications such as recommendation letters, interviews, essays, etc. I chose not to share my application essays because I will be using them to apply for several fellowships next year. But also, I think that part of the process of coming up with a good essay for grad school involves starting from scratch and figuring out what makes you tick, instead of copying someone else’s successful template. That said, I’m happy to read over essays! Send them my way at the email below. <3
 
 Feel free to reach out if you have any questions!
 anyakennedy777@gmail.com
