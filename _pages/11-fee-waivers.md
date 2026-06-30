@@ -8,7 +8,7 @@ My goal here is to share some resources to reduce the prohibitive nature of appl
 
 # apply for a fee waiver
 
-### big 10 alliance free app Waivers
+### big 10 alliance free app waivers
 
 If you are applying to any of the schools listed below and fulfill the eligibility requirements, you can submit [this form](https://btaa.org/resources-for/students/freeapp/eligibility) to be considered for a fee waiver. You can submit the form multiple times if you are applying to multiple types of programs (eg. Physics and Materials Science). In the section that asks you to check the boxes by any programs you have participated in, I checked “Not Listed (Please Specify)” and wrote in NSF REU and NSF PIRE (two summer programs I have done) and I got a few waivers, so I recommend being creative for that question if needed. Priority is given to applicants who submit the request before November 15, so submit early! This is not a guaranteed fee waiver but they also don’t seem to be stingy with handing out waivers.
 
