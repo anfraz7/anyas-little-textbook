@@ -10,7 +10,7 @@ This page is specifically about prestigious international fellowships like the R
 
 These are highly competitive and time-intensive and often put a lot more emphasis on grades than PhD applications do. Most successful applicants will have a 4.0. I don’t want to discourage anyone from applying---I was discouraged from applying but am glad I chose to anyways. But, these are time intensive applications that can take away from time you might be putting into more realistic applications like the GRFP or grad schools, so pick your bets wisely.
 
-However, I will make a little note that the Fulbright is a bit less competitive than the others, and they typically look for a diverse range of interests and life experiences in their applicants to my understanding. Worth looking into if you think it might be for you!
+However, I will make a little note that the Fulbright is a bit less competitive than the others (20% acceptance rate on average, although it varies by country), and they typically look for a diverse range of interests and life experiences in their applicants to my understanding. Worth looking into if you think it might be for you!
 
 No matter what, you must schedule an appointment with ODS during your junior year to talk about these programs.
 
