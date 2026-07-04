@@ -4,7 +4,7 @@ title: "sample timeline"
 parent: "applying for grad school"
 ---
 
-If you’re anything like me, grad school applications can feel super overwhelming. A bit of advice: the more you stick to your schedule, the less overwhelmed you will feel. There were times I said I was going to email a certain professor or write a certain essay draft by a specific day and didn't actually follow through until a month later. Naturally, the whole month in between when I said I'd write that essay and when I actually wrote the essay, I was stressing tf out. Therefore, my two bits of advice: (1) Don't procrastinate and (2) When you do miss an internal deadline, be gentle with yourself and just calmly get back on track. Don't beat yourself up! You're super awesome.
+If you’re anything like me, grad school applications can feel super overwhelming. A bit of advice: the more you stick to your schedule, the less overwhelmed you will feel. Don't procrastinate, but be gentle with yourself when you do miss an internal deadline and just calmly get back on track.
 
 This is my take on an application timeline that can afford you the least stress. If you can stick close to a schedule like this then it will strengthen your essays, improve your recommendation letters, increase your chance of fee waivers, and can help you forge important connections with potential research advisors. Try your best! It’ll be a lot of work but it will pay off.
 
