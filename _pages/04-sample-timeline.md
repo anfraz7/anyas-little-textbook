@@ -136,7 +136,7 @@ These are the times that I stuck to my timeline that I think paid off the most.
     <ul class="timeline-body">
       <li>Make an all-but-concrete list of the schools you will apply to.</li>
       <li>Remind your letter writers of any October deadlines.</li>
-      <li>Continue editing your statement of purpose for PhD applications with trusted advisors.</li>
+      <li>Continue editing your statement of purpose and personal statement for PhD applications with trusted advisors.</li>
       <li>(Optional) Submit GRFP application.</li>
       <li>I think October is a good time to take a bit of a break. After you’ve submitted any fellowship/international applications, give yourself some time to get through midterms.</li>
       <li>(Optional) Attend SESAPS, sponsored by UNC SPS! It’s a great way to network with grad students and advisors in the Southeast, plus conference presentations look great on your CV.</li>
