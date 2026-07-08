@@ -10,6 +10,8 @@ This is also an important place to demonstrate that you have clear career goals 
 
 I have described down below what I take to be the elements of a good SOP, in the order that I put them in my essay. There are of course always many valid ways to write a good SOP but from proofreading other successful SOPs this seems to be pretty standard.
 
+Again, I'm choosing not to share my essay online since I'm using it for a few fellowships next year. I direct you to my friend Rachel's guide that I linked in the introduction for a good SOP example.
+
 # general guidelines
 
 - Every sentence should say something unique about _you_.
