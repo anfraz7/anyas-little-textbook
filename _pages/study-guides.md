@@ -112,7 +112,7 @@ Some professors allow entirely open-book tests. I ask that you not print these s
 [full study guide](https://drive.google.com/file/d/1aHfkBFXXwvGWqcyXmHN9AvawowdoFhYY/view?usp=drive_link)
 
 **course name:** Calculus III  
-**institution and course number:** NC State, MA 242  
+**institution and course number:** NC State/High School Dual Enrollment, MA 242  
 **textbook:** N/A  
 **made:** Fall 2020
 
