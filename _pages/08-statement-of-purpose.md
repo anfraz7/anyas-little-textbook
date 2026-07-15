@@ -16,7 +16,7 @@ Again, I'm choosing not to share my essay online since I'm using it for a few fe
 
 - Every sentence should say something unique about _you_.
 - Avoid vague sentiments or statements that should be a given for someone pursuing a PhD. 
-  - “I have always been fascinated by materials science.” → “I am drawn to materials science because it is a fundamental science with direct impacts on the energy problems our country faces today.” (Don’t steal that it’s my opening sentence….)
+  - “I have always been fascinated by astronomy.” → “I am drawn to astronomy because...(interesting unique reason)"
 - Use strong verbs that emphasize your independent thought.
   - “I hypothesized [X] and confirmed my hypothesis with [Y]”
   - “I designed…”
@@ -29,11 +29,11 @@ Again, I'm choosing not to share my essay online since I'm using it for a few fe
 
 You can take the introduction for an SOP in literally so many different directions. A general piece of advice: make sure you talk about who you are _now_ and what your _adult_ career passions are, and don't fall into the trap of how you've wanted to pursue a PhD since you were in elementary school. That can be part of your story, but it's also weirdly common for people applying to Physics PhDs to have wanted to since they were 10. Not that I can relate or anything... The point is, even if you do talk about wanting to pursue a Physics PhD since you were a kid try to make the point of the paragraph be something that makes you stand out as an applicant _now_.
 
-I used my first paragraph to develop two ideas: (1) I love materials science because it is both fundamental physics but also heavily relevant for sustainability applications; and (2) I believe that computational materials science will be a critical component of sustainable materials development in the coming years and I want to be a part of that.
+I used my first paragraph to develop two ideas: (1) I love materials science because it is simultaneously the study of fundamental physics and also heavily relevant for sustainability applications; and (2) I believe that computational materials science will be a critical component of sustainable materials development in the coming years and I want to be a part of that.
 
 ### 2. research/academic history
 
-This is where you go chronologically through significant research or academic endeavors that you have been involved in undergrad, and use those to paint a story of how you have _thought like a scientist_ through all of them. It should be clear to the reader how all of these experiences led to your choice to apply for a PhD in your chosen subfield, and made you uniquely qualified for the research you want to do in grad school.
+This is where you go chronologically through significant research or academic endeavors that you have been involved in undergrad, and use those to paint a story of how you have _thought like a scientist_ through all of them. This can include research experiences, class projects like PHYS 332 or 482L, particularly unique class experiences, etc. It should be clear to the reader how all of these experiences led to your choice to apply for a PhD in your chosen subfield, and made you uniquely qualified for the research you want to do in grad school. 
 
 The SOP is not the time to…
 
@@ -49,14 +49,6 @@ The SOP is the time to…
 
 *In no way do I mean you should lie or exaggerate on your SOP. However, I have noticed in myself and my friends that we all have a tendency to feel _reeeeeally_ uncomfortable about taking any sort of ownership for our work in the lab, since our research has of course been enabled by so many amazing research mentors. My experience is that writing out plainly and truthfully my research contributions without mentioning my mentors initially felt almost like lying. I encourage you to push yourself to reach this point of discomfort. The reader knows that undergraduate research is supported by a village, but they want to hear about _you_.
 
-Here’s an example from my own SOP. This is the section where I talk about the research that I did at UNC during my junior year of undergrad, and then why I switched to new research the next summer.
-
-> I spent my junior year designing hardware to create and view phagocytosis target beads (UNC). Specialized immune cells called macrophages have the potential to engulf cancer cells through a process called phagocytosis, and our lab develops specialized microscopes to probe this process. I rebuilt our 3D printed fluorescence microscope and designed and printed a mechanical molecular stamper for its stage, to stamp anisotropic beads for our macrophages to phagocytose. Building hardware expanded my troubleshooting skills. For example, when I first turned on my microscope I saw no light from my sample. To diagnose the issue, I plotted the emission and excitation spectra of the old filter set and determined they had too much overlap. I designed, ordered, and cut new filters of colored glass. To track my fixes, I wrote a “troubleshooting manual”—one of my many initiatives to support future 3D printed microscopy in the lab.
-> 
-> I wrote a proposal and was awarded a highly competitive university SURF grant to expand my molecular stamper over the summer. However, I missed the theory, coding, and infinite data analysis of computational research. I therefore declined the SURF for an REU at Penn State University, research I now continue remotely.
-
-It goes without saying, but please don’t copy any of my language for your own SOP! (I will also be using this for my GRFP application next year, so you could get us _both_ flagged if you do 😬)
-
 ### 3. why this school?
 
 **what research groups draw your interest at this school?**
@@ -71,4 +63,4 @@ The main focus of a PhD is the research advisor, but I think it’s also helpful
 
 ### 4. conclusion
 
-The conclusion is a very easy place to fall into vague statements—“I am so excited to take this next step of pursing a PhD” / “[School] would be the perfect place for me to spend the next five years” ! Don’t fall into the trap! Keep it you-specific. I used this space to talk about my long-term career goal of being a professor so I could cultivate a specific research group environment, mentor the next generation of researchers, and further my specific research goals.
+The conclusion is a very easy place to fall into vague statements--“I am so excited to take this next step of pursing a PhD” / “[School] would be the perfect place for me to spend the next five years” ! Don’t fall into the trap! Keep it you-specific. I used this space to talk about my long-term career goal of being a professor so I could cultivate a specific research group environment, mentor the next generation of researchers, and further my specific research goals.
