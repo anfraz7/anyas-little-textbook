@@ -14,7 +14,7 @@ gitbook_version:  3.2.3
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
 
-baseurl: "/anyas-little-textbook"
+baseurl: "/the-physics-major"
 
 collections:
   pages:
