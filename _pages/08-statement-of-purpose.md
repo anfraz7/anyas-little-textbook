@@ -17,12 +17,15 @@ Again, I'm choosing not to share my essay online since I'm using it for a few fe
 - Every sentence should say something unique about _you_.
 - Avoid vague sentiments or statements that should be a given for someone pursuing a PhD. 
   - “I have always been fascinated by astronomy. I am applying to the Astronomy PhD at [school] so I can learn more about a subject that I am incredbily passionate about.” → “I am drawn to astronomy because it is a rigorous and fundamental science with the power to captivate young children and adults alike. When I picture where I want to be after my PhD, I think of science communicators like Katie Mack and Chanda Prescod-Weinstein who tackle complex and cutting-edge research questions while simultaneously striving to make astronomy breakthroughs accessible to the entire public. By pursuing a PhD in astronomy at [school], I plan to gain technical expertise in the field of [research field] while simultaneously honing my skills in effective science communication. 
-- Use strong verbs that emphasize your independent thought.
-  - “I hypothesized [X] and confirmed my hypothesis with [Y]”
-  - “I designed…”
+- Use strong verbs that emphasize your independent thought and problem-solving.
+  - “I **hypothesized** [X] and confirmed my hypothesis with [Y]”
+  - “I **designed**…”
 - Don’t be afraid to make strong claims about your research philosophy.
-  - "I believe..."
-  - "I hope to..." --> "I plan to..."
+  - "I **believe**..."
+  - "I hope to..." --> "I **plan** to..."
+- "Failures" in the lab make for very good stories.
+  - "One **challenge** I faced while [attempting to do X in research] was..." "I **investigated** this issue by..." "To overcome this issue, I **proposed** to our team that we [solution]" "This solution [worked/didn't work/told us something we didn't expect]" etc. etc.
+  - "From this experience I **learned**..."
 
 # elements of a statement of purpose
 
